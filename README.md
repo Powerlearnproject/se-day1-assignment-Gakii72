@@ -5,7 +5,9 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-software engineering is the systematic application of engineering principles,methods and tools to develop and maintain high-quality software system which involves product design,development,testing,deployment and maintenance. 
+
+software engineering is the systematic application of engineering principles,methods and tools to develop and maintain high-quality software system which involves product design,development,testing,deployment and maintenance.
+
 IMPORTANCE
  1 Creation of  software applications and systems that power varius aspects of modern life.
  2 Efficiency and Cost Management such as using reusable components and adhering to project management principles, help in controlling costs and avoiding budget overruns.
@@ -43,18 +45,22 @@ scenarios in which Agile may be appropriate
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer
+
 Software Developers are responsible for designing and coding software applications based on requirements.
 Developers write and execute tests to identify and fix bugs in their code.
 They are responsible for documenting their code, including writing comments, maintaining technical specifications, and updating user manuals or guides.
 Developers keep up with industry trends and best practices to continuously improve their skills and the quality of the software they develop.
 
 Quality Assurance Engineer
+
 They are responsible for creating and executing test plans, test cases, and automated tests to ensure that the software meets quality standards and functions correctly.
 They identify, document, and track defects or issues found during testing.
 Engineers often develop and maintain automated test scripts and frameworks to increase the efficiency of the testing process and ensure consistent test coverage.
 They track and report on software quality metrics, such as defect rates, test coverage, and performance benchmarks.
 Project Manager 
+
  Project Managers are responsible for planning the project lifecycle, including defining scope, setting milestones, creating schedules, and estimating resources and budgets.
  They manage resources, including assigning tasks to team members, coordinating with stakeholders
  ensuring that the team has the necessary tools and support to complete their tasks.
@@ -65,7 +71,7 @@ Project Manager
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-Integrated Development Environments (IDEs) and Version Control Systems (VCS) are crucial tools in the software development process, each serving distinct but complementary roles
+
 Integrated Development Environments (IDEs
 Efficiency and Productivity- IDEs provide a unified interface with features such as code editors, compilers, debuggers, and build automation tools, which streamline the development workflow. This integration helps developers write, test, and debug code more efficiently.
 
@@ -77,6 +83,7 @@ Productivity Enhancements- Features such as code completion, syntax highlighting
 
 Examples:
 Visual Studio Code (VS Code), IntelliJ IDEA:
+
 Version Control Systems (VCS)
 Importance:
 
@@ -114,6 +121,7 @@ Challenges:
  
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
  Unit Testing:
 
 Description: Tests individual components or functions in isolation.
